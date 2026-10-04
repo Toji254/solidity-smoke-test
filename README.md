@@ -1,4 +1,11 @@
+# Solidity Smoke Test
+
+> **Portfolio snapshot:** A small Foundry sandbox used for testing the local Solidity/Foundry toolchain.
+>
+> This is a learning/support repository rather than a flagship portfolio project. It is intentionally simple: build, test, format, snapshot, run Anvil, and practice Cast.
+
 ## Foundry
+
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
