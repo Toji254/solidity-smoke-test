@@ -1,6 +1,8 @@
 # Solidity Smoke Test
 
-> **Portfolio snapshot:** A small Foundry sandbox used for testing the local Solidity/Foundry toolchain.
+> **portfolio:** small foundry sandbox for testing the local sol/evm toolchain.
+>
+> **tags:** `sol | evm | foundry | testing | learning`
 >
 > This is a learning/support repository rather than a flagship portfolio project. It is intentionally simple: build, test, format, snapshot, run Anvil, and practice Cast.
 
